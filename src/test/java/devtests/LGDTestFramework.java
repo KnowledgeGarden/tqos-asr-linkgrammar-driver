@@ -7,7 +7,7 @@ package devtests;
  * @author jackpark
  *
  */
-public class PDTestFramework {
+public class LGDTestFramework {
 
 	/**
 	 * @param args
